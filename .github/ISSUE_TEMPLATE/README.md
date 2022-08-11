@@ -1,11 +1,15 @@
-- **A `README.md` file** with these sections:
-    
-    ☐ **<Your game's title>**: A description of your game. Background info of the game is a nice touch.
-    
-    ☐ **Screenshot(s):** Images of your actual game.
-    
-    ☐ **Technologies Used**: List of the technologies used, e.g., JavaScript, HTML, CSS...
-    
-    ☐ **Getting Started**: In this section include the link to your deployed game and any instructions you deem important.
-    
-    ☐ **Next Steps**: Planned future enhancements (icebox items).
+# FROGGER
+## Project Description
+###### Browser based clone of 1981 arcade game Frogger. The object of the game is to place the frog in one of the three 'home' spaces across the hazardous river within the 30-second curfew. This frog's got some **strict** parents! 
+
+## Take a *leap* and see if you can make it home on time!
+###### [I'm an inline-style link](https://estrellaalvarez.github.io/Frogger/)
+
+**Screenshot(s):** Images of your actual game.
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+☐ **Technologies Used**: List of the technologies used, e.g., JavaScript, HTML, CSS...
+
+☐ **Getting Started**: In this section include the link to your deployed game and any instructions you deem important.
+
+☐ **Next Steps**: Planned future enhancements (icebox items).

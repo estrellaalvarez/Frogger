@@ -44,10 +44,6 @@ h1 {
     height: 80px;
     width: 80px;
 }
-img {
-    margin-left: 102px;
-    margin-top: 40px;
-}
 .starting-block {
     background: url('images/land.png');
     background-size: 105px;
@@ -138,6 +134,6 @@ button {
     margin-left: 50px;
     margin-top: -85px;
 }
-/*.title {
-    margin-left: -140px;
-} */
+#start {
+    margin-left: -50px;
+}
