@@ -1,0 +1,143 @@
+.grid {
+    border: 5px solid green;
+    top: 50%;;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    display: flex;
+    flex-wrap: wrap;
+    height: 720px;
+    width: 720px;
+    background: url('images/water.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    image-rendering: crisp-edges;
+    image-rendering: pixelated;
+}
+body {
+    background-color: pink;
+    background: url('images/bg.png');
+}
+#time-left {
+    margin-left: 0px;
+}
+#result, h3 {
+    margin-left: 50px;
+    font-size: 25px;
+    margin-top: -10px;
+}
+h3 {
+    margin-left: 180px;
+    font-family: 'Silkscreen', cursive;
+    font-size: 30px;
+    color: rgb(78, 20, 75);
+    margin-top: -30px;
+}
+h1 {
+    font-family: 'Silkscreen', cursive;
+    font-size: 54px;
+    color: rgb(78, 20, 75);
+    margin-left: 155px;
+    margin-top: 110px;
+}
+.grid div {
+    height: 80px;
+    width: 80px;
+}
+img {
+    margin-left: 102px;
+    margin-top: 40px;
+}
+.starting-block {
+    background: url('images/land.png');
+    background-size: 105px;
+    background-repeat: no-repeat;
+    background-position-x: -2px;
+    background-position-y: -25px;
+}
+.land {
+    background: url('images/land.png');
+    background-size: 105px;
+    background-repeat: no-repeat;
+    background-position-x: -2px;
+    background-position-y: -25px;
+    transform: rotateX(180deg);
+}
+#win {
+    background: transparent;
+}
+.p1 {
+    background-color: black;
+    background: url(images/lilypad.png);
+    background-size: 100px;
+    background-position-x: -11px;
+    background-position-y: -10px;
+}
+.l1 {
+    background-color: tan;
+    background: url('images/log.png');
+    background-repeat: no-repeat, repeat;
+    background-size: 220px;
+    background-position-x: -0px;
+    background-position-y: 0px;
+} 
+.l2 {
+    background: url('images/log.png');
+    background-repeat: no-repeat, repeat;
+    background-size: 220px;
+    background-position-y: 0px;
+    background-position-x: -60px;
+} 
+.l3 {
+    background: url('images/newlogR.png');
+    background-size: 135px;
+    background-repeat: no-repeat, repeat;
+    background-position-y: -45px;
+    background-position-x: -55px;
+}
+button {
+    background: transparent;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 100%;
+    width: 150px;
+    height: 150px;
+    margin-top: -50px;
+    margin-left: 120px;
+    border: none;
+    outline: none;
+} 
+.frog {
+    background-color: rgb(7, 51, 7);
+    background: url('images/frog.png');
+    background-position-x: -11px;
+    background-position-y: -10px;
+    background-size: 110px;
+}
+.s1 {
+    background: url('images/snake.png');
+    background-position-x: -85px;
+    background-position-y: -68px;
+}
+.s2 {
+    background: url('images/snake.png');
+    background-position-x: -8px;
+    background-position-y: -65px;
+}
+#win {
+    image-rendering: crisp-edges;
+    image-rendering: pixelated;
+    margin-top: -30px;
+}
+#lose {
+    image-rendering: crisp-edges;
+    image-rendering: pixelated;
+    margin-top: -20px;
+}
+#rules {
+    margin-left: 50px;
+    margin-top: -85px;
+}
+/*.title {
+    margin-left: -140px;
+} */
