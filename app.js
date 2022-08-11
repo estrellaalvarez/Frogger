@@ -194,7 +194,7 @@ function movePieces() {
 startBtn.addEventListener("click", () => {
     if (timerId) {
     clearInterval(timerId);
-    result2.innerHTML="<img src=\'images/start2.png' width= 300px>";
+    window.location.reload();
 } else {
     timerId = setInterval(movePieces, 1000);
     document.addEventListener("keyup", moveFrog);
