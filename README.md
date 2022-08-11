@@ -9,13 +9,13 @@ I Illustrated this entire game myself *except* for the body of the frog, which w
 
 ## Screenshots
 ### Main Page:
-![FroggerMain](/root/sei725/homework/Project-1-Browser-Game/images/FROGGERMAIN.png)
+![FroggerMain](./images/FROGGERMAIN.png)
 ### Active Page:
-![FroggerMain](/root/sei725/homework/Project-1-Browser-Game/images/FROGGERACTIVE.png)
+![FroggerMain](./images/FROGGERACTIVE.png)
 ### Loss Page:
-![FroggerLoss](/root/sei725/homework/Project-1-Browser-Game/images/FROGGERMAIN.png)
+![FroggerLoss](./images/FROGGERMAIN.png)
 ### Win Page:
-![FroggerWin](/root/sei725/homework/Project-1-Browser-Game/images/FroggerScW.png)
+![FroggerWin](./images/FroggerScW.png)
 
 ## Technologies Used:
 JavaScript, HTML, and CSS.
