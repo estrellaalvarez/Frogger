@@ -5,7 +5,7 @@ Browser based clone of 1981 arcade game Frogger. The object of the game is to pl
 I Illustrated this entire game myself, *except* for the body of the frog. This was borrowed from [Pixelart's](https://www.pixilart.com/) stamp tool.
 
 ## Getting Started- Take a *leap* and see if you can make it home on time!
-Instructions: Use WASD (Up, left, down, right) keys to hop around obtacles and win by entering the patches of water across the river before the timer runs out.
+Instructions: Use WASD (up, left, down, right) keys to hop around obtacles and win by entering the patches of water across the river before the timer runs out.
 *Ready?*
 [Play Frogger.](https://estrellaalvarez.github.io/Frogger/)
 
@@ -15,7 +15,7 @@ Instructions: Use WASD (Up, left, down, right) keys to hop around obtacles and w
 ### Active Page:
 ![FroggerMain](./images/FROGGERACTIVE.png)
 ### Loss Page:
-![FroggerLoss](./images/FROGGERMAIN.png)
+![FroggerLoss](./images/FROGGERLOSS.png)
 ### Win Page:
 ![FroggerWin](./images/FroggerScW.png)
 
