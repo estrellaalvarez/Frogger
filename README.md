@@ -13,5 +13,6 @@ JavaScript, HTML, and CSS.
 
 ## Next Steps
 My future improvments for this game include:
-⋅⋅* Creating and keeping high scores
-⋅⋅* Creating a "lives" system
+* Creating and keeping high scores
+* Creating a "lives" system
+* Ability to ride along on lilypads
