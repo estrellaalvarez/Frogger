@@ -1,4 +1,4 @@
-//global cariables
+//global variables
 const cells = document.querySelectorAll(".grid div");
 const logsLeft = document.querySelectorAll(".log-2");
 const logsRight = document.querySelectorAll(".log-1");
@@ -38,7 +38,6 @@ function moveFrog(e) {
     lose();
     win();
 }
-
 //move cells across the screen, removing cells and replacing into the next cell to appear to be moving across the screen. some to the left, some right (lilypad, logs) 
 function autoMove() {
     lilyBottom.forEach(lilyBot => moveLilyBottom(lilyBot));
@@ -176,7 +175,7 @@ function lose() {
     cells[currentIndex].classList.contains("l3") ||
     cells[currentIndex].classList.contains("s1") ||
     cells[currentIndex].classList.contains("s2")
-) {
+){
     result2.innerHTML="<img src=\'images/lose.png' width= 400px>";
     document.getElementById("rules").style.display = "none";
     cells[currentIndex].classList.remove("frog");
@@ -201,11 +200,4 @@ startBtn.addEventListener("click", () => {
     document.addEventListener("keyup", moveFrog);
 }
 });
-//todo:
-//lose if snake gets you
-//make special announcment if snake gets u
-//possibily add another snake
-//draw pop up pictures for win/loss
-//work on css
-//make curfew sign
 

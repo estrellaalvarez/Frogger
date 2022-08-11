@@ -5,6 +5,8 @@ Browser based clone of 1981 arcade game Frogger. The object of the game is to pl
 I Illustrated this entire game myself *except* for the body of the frog, which was borrowed from [Pixelart's](https://www.pixilart.com/) stamp tool.
 
 ## Getting Started- # Take a *leap* and see if you can make it home on time!
+Instructions: Use WASD (Up, left, down, right) keys to hop around obtacles and win by entering the patches of water across the river before the timer runs out.
+*Ready?*
 [Play Frogger](https://estrellaalvarez.github.io/Frogger/)
 
 ## Screenshots
@@ -22,6 +24,7 @@ JavaScript, HTML, and CSS.
 
 ## Next Steps
 My future improvments for this game include:
+* The current state of this game lies around medium difficulty. I'd like to implement an "Easy" and "Hard" difficulty setting.
 * Creating and keeping high scores
 * Creating a "lives" system
 * Ability to ride along on lilypads
