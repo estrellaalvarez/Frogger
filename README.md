@@ -6,7 +6,7 @@ Browser based clone of 1981 arcade game Frogger. The object of the game is to pl
 [Play Frogger](https://estrellaalvarez.github.io/Frogger/)
 
 ## Screenshots
-![alt text]https://github.com/estrellaalvarez/Frogger/blob/master/images/FROGGERMAIN.png)
+![alt text]https://raw.githubusercontent.com/estrellaalvarez/Frogger/master/images/FROGGERMAIN.png)
 
 ## Technologies Used:
 JavaScript, HTML, and CSS.
