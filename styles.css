@@ -99,7 +99,7 @@ button {
     width: 150px;
     height: 150px;
     margin-top: -50px;
-    margin-left: 120px;
+    margin-left: 230px;
     border: none;
     outline: none;
 } 
@@ -129,6 +129,8 @@ button {
     image-rendering: crisp-edges;
     image-rendering: pixelated;
     margin-top: -30px;
+    width: 100px;
+
 }
 #rules {
     margin-left: 50px;
