@@ -6,7 +6,7 @@
 ###### [I'm an inline-style link](https://estrellaalvarez.github.io/Frogger/)
 
 **Screenshot(s):** Images of your actual game.
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text]https://github.com/estrellaalvarez/Frogger/blob/master/images/FROGGERMAIN.png)
 
 ☐ **Technologies Used**: List of the technologies used, e.g., JavaScript, HTML, CSS...
 
