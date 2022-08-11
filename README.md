@@ -8,13 +8,13 @@ I Illustrated this entire game myself *except* for the body of the frog, which w
 [Play Frogger](https://estrellaalvarez.github.io/Frogger/)
 
 ## Screenshots
-# Main Page:
+### Main Page:
 ![FroggerMain](/root/sei725/homework/Project-1-Browser-Game/images/FROGGERMAIN.png)
-# Active Page:
+### Active Page:
 ![FroggerMain](/root/sei725/homework/Project-1-Browser-Game/images/FROGGERACTIVE.png)
-# Loss Page
+### Loss Page:
 ![FroggerLoss](/root/sei725/homework/Project-1-Browser-Game/images/FROGGERMAIN.png)
-# Win Page:
+### Win Page:
 ![FroggerWin](/root/sei725/homework/Project-1-Browser-Game/images/FroggerScW.png)
 
 ## Technologies Used:
