@@ -1,6 +1,6 @@
 # FROGGER
 ## Project Description
-Browser-based clone of the 1981 arcade game Frogger. The object of the game is to place the frog in one of the three 'home' spaces across the hazardous river within the 30-second curfew. This frog's got some **strict** parents! 
+Browser-based rendition of the 1981 arcade game Frogger. The object of the game is to place the frog in one of the three 'home' spaces across the hazardous river within the 30-second curfew. This frog's got some **strict** parents! 
 
 I Illustrated this entire game myself, *except* for the body of the frog. This was borrowed from [Pixelart's](https://www.pixilart.com/) stamp tool.
 
