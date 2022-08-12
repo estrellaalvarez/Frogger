@@ -27,7 +27,7 @@ body {
     margin-top: -10px;
 }
 h3 {
-    margin-left: 180px;
+    margin-left: 200px;
     font-family: 'Silkscreen', cursive;
     font-size: 30px;
     color: rgb(78, 20, 75);
@@ -37,7 +37,7 @@ h1 {
     font-family: 'Silkscreen', cursive;
     font-size: 54px;
     color: rgb(78, 20, 75);
-    margin-left: 155px;
+    margin-left: 175px;
     margin-top: 110px;
 }
 .grid div {
@@ -63,14 +63,12 @@ h1 {
     background: transparent;
 }
 .p1 {
-    background-color: black;
     background: url(images/lilypad.png);
     background-size: 100px;
     background-position-x: -11px;
     background-position-y: -10px;
 }
 .l1 {
-    background-color: tan;
     background: url('images/log.png');
     background-repeat: no-repeat, repeat;
     background-size: 220px;
